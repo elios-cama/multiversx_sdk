@@ -14,7 +14,6 @@ dependencies:
   freezed_annotation: ^2.4.0
   json_annotation: ^4.9.0
   lints: ^4.0.0
-  meta: ^1.15.0
   pinenacl: ^0.5.0
   pointycastle: ^3.9.0
   retrofit: ^4.1.0
